@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="05cd524f-5841-49e1-9138-152e2cc7bbf9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="2210" column="108" selection-start-line="2210" selection-start-column="108" selection-end-line="2210" selection-end-column="108" />
+            <state relative-caret-position="1729">
+              <caret line="2264" column="81" selection-start-line="2264" selection-start-column="81" selection-end-line="2264" selection-end-column="81" />
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
                 <element signature="n#script#10;n#head#0;n#html#0;n#!!top" />
@@ -102,7 +101,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>map</find>
-      <find>Сколько обычно участников и кураторов?</find>
+      <find />
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,10 +126,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
-    <option name="y" value="6" />
-    <option name="width" value="2514" />
-    <option name="height" value="1546" />
+    <option name="x" value="24" />
+    <option name="y" value="7" />
+    <option name="width" value="1244" />
+    <option name="height" value="1544" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -223,11 +222,11 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32958537" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32958537" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="RNConsole" order="7" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25831306" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -255,6 +254,73 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67920">
+          <caret line="2264" column="81" selection-start-line="2264" selection-start-column="81" selection-end-line="2264" selection-end-column="81" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#script#10;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#noscript#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#path#0;n#svg#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#12796#12826#0" expanded="true" />
+            <element signature="e#13149#13179#0" expanded="true" />
+            <element signature="e#14191#14221#0" expanded="true" />
+            <element signature="e#14590#14620#0" expanded="true" />
+            <element signature="e#14991#15022#0" expanded="true" />
+            <element signature="e#15690#15721#0" expanded="true" />
+            <element signature="e#17330#17361#0" expanded="true" />
+            <element signature="e#18373#18404#0" expanded="true" />
+            <element signature="e#19073#19104#0" expanded="true" />
+            <element signature="e#19475#19506#0" expanded="true" />
+            <element signature="e#20098#20129#0" expanded="true" />
+            <element signature="e#20679#20710#0" expanded="true" />
+            <element signature="e#20759#20850#0" expanded="true" />
+            <element signature="e#21091#21158#0" expanded="true" />
+            <element signature="e#21399#21490#0" expanded="true" />
+            <element signature="e#21781#21872#0" expanded="true" />
+            <element signature="e#22208#22298#0" expanded="true" />
+            <element signature="e#22585#22676#0" expanded="true" />
+            <element signature="e#23009#23076#0" expanded="true" />
+            <element signature="e#23318#23409#0" expanded="true" />
+            <element signature="e#23727#23818#0" expanded="true" />
+            <element signature="e#24259#24318#0" expanded="true" />
+            <element signature="e#24609#24668#0" expanded="true" />
+            <element signature="e#24908#24963#0" expanded="true" />
+            <element signature="e#25205#25264#0" expanded="true" />
+            <element signature="e#25554#25634#0" expanded="true" />
+            <element signature="e#25935#25994#0" expanded="true" />
+            <element signature="e#26295#26354#0" expanded="true" />
+            <element signature="e#26606#26665#0" expanded="true" />
+            <element signature="e#26915#26974#0" expanded="true" />
+            <element signature="e#27273#27332#0" expanded="true" />
+            <element signature="e#27633#27692#0" expanded="true" />
+            <element signature="e#28011#28184#0" expanded="true" />
+            <element signature="e#28393#28609#0" expanded="true" />
+            <element signature="e#28762#28792#0" expanded="true" />
+            <element signature="e#28828#29079#0" expanded="true" />
+            <element signature="e#29162#29364#0" expanded="true" />
+            <element signature="e#29476#29503#0" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/shari.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="98" column="134" selection-start-line="98" selection-start-column="134" selection-end-line="98" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58710">
@@ -466,16 +532,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lol.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lol.json" />
+    <entry file="file://$PROJECT_DIR$/a.py" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="2210" column="108" selection-start-line="2210" selection-start-column="108" selection-end-line="2210" selection-end-column="108" />
+        <state relative-caret-position="1729">
+          <caret line="2264" column="81" selection-start-line="2264" selection-start-column="81" selection-end-line="2264" selection-end-column="81" />
           <folding>
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
             <element signature="n#script#10;n#head#0;n#html#0;n#!!top" />
